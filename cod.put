@@ -11,3 +11,4 @@ git add .
 git commit -m "primeiro commit"
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
+git remote add origin https://github.com/Mariaeduardabonfim/codes.duda.git
