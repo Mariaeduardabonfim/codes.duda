@@ -16,3 +16,7 @@ git push -u origin master
 git log --oneline
 git log
 git log --oneline --graph  
+git status
+mkdir projeto-git
+cd projeto-git
+ git commit -m "primeira versão do arquivo"
